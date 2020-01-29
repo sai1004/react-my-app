@@ -38,7 +38,7 @@ class Application extends Component {
   };
 
   componentDidUpdate(props, state) {
-     if (this)
+    //  if (this)
     // console.log("Updated from", state, "to", this.state)
   }
 
